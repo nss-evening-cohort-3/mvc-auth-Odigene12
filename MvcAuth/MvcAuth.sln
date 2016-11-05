@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcAuth", "MvcAuth\MvcAuth.csproj", "{D4C721B4-4990-4CB0-81F2-A4634F3456F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcAuth.Tests", "MvcAuth.Tests\MvcAuth.Tests.csproj", "{A0636F02-F2FB-4618-9E99-E682D0603DD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4C721B4-4990-4CB0-81F2-A4634F3456F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4C721B4-4990-4CB0-81F2-A4634F3456F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4C721B4-4990-4CB0-81F2-A4634F3456F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4C721B4-4990-4CB0-81F2-A4634F3456F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0636F02-F2FB-4618-9E99-E682D0603DD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0636F02-F2FB-4618-9E99-E682D0603DD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0636F02-F2FB-4618-9E99-E682D0603DD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0636F02-F2FB-4618-9E99-E682D0603DD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
